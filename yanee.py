@@ -3,6 +3,7 @@ import streamlit as st
 import datetime
 import pandas as pd
 import joblib
+import openpyxl
 from sklearn.linear_model import LinearRegression
 from sklearn.model_selection import train_test_split
 st.markdown(
