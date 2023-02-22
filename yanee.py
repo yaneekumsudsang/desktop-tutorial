@@ -5,10 +5,6 @@ import pandas as pd
 import joblib
 from sklearn.linear_model import LinearRegression
 from sklearn.model_selection import train_test_split
-import openpyxl
-import matplotlib.pyplot as plt
-from sklearn.model_selection import train_test_split
-from sklearn.tree import DecisionTreeClassifier
 st.markdown(
     f"""
        <style>
@@ -23,7 +19,7 @@ st.markdown(
     unsafe_allow_html=True
 )
 
-st.title(" นอนตอนนี้จะสดชื่อแค่ไหนกันนะ ")
+st.title(" นอนตอนนี้จะสดชื่นแค่ไหนกันนะ ")
 option = st.selectbox(
     'ระบุวันที่เข้านอน (วันอาทิตย์=1,...,วันเสาร์=7)',
     ('1', '2', '3', '4', '5', '6', '7'))
