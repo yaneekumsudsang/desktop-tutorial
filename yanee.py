@@ -10,7 +10,7 @@ st.markdown(
     f"""
        <style>
        .stApp {{
-           background-image: url("https://hilight.kapook.com/img_cms2/user/worawong/Hilight/1/spark.jpg");
+           background-image: url("https://www.hdwallpapers.in/download/blue_stars_and_web_lines_with_background_of_black_sky_hd_space-1366x768.jpg");
            background-attachment: fixed;
            background-size: cover;
            /* opacity: 0.3; */
